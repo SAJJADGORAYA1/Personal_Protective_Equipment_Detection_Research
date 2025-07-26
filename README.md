@@ -1,6 +1,6 @@
 # Personal Protective Equipment (PPE) Detection System
 
-![PPE Detection Demo](demo.gif) *Example detection output*
+
 
 This project implements a computer vision system for detecting Personal Protective Equipment (PPE) items using deep learning. The solution includes both fundamental image processing techniques and an advanced deep learning pipeline for PPE classification.
 
